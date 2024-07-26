@@ -39,3 +39,6 @@ OTHER FILES
 *example-webscrapper.py : code used for webscrapping to get content from webpages (i.e. get documents)
 *example-websitelinks.py: code used to get links of websites and also deep crawling those websites to get further links
 *unique_urls2.txt: example of links we retrieved from crawling
+
+![image](https://github.com/user-attachments/assets/a5be079a-bb66-4732-a8bd-108d58a9ebce)
+
