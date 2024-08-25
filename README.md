@@ -9,6 +9,7 @@ PREREQUISITES
 * Python 3.x
 * Flask
 * Whoosh
+
 PROJECT STRUCTURE
 * app.py : the main flask application file
 *templates/index.html: html pages for rendering the pages
@@ -22,12 +23,14 @@ b. pip install whoosh
 3. Then run the command:
 a. python app.py
 4. you will see the following in your terminal: 
+
 	 * Running on http://127.0.0.1:5000
 5. open your web browser and type http://127.0.0.1:5000, click enter
 6. the web application will open and now you can enter your search query 
 7. the top 10 results will be displayed
 8. you are allowed to mark each output as relevant or non-relevant and submit the feedback which will be used to re-rank the documents.
 9. The assessment components like precision @ k and MAP are used to assess the IR model.
+
 FEATURES
 * Fuzzy search: Fuzzy search capability for medical information.
 * Retrieval of relevant documents based on user queries.
